@@ -5,9 +5,12 @@ This paper has increased the accuracy of all popular adaptive networks and also 
 ### Methods Overview
 <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/methods_overview_comparsion.jpg" width="650">
 
-### Difference between traditional budgeted batch classification and our proposed method
+### Difference comparison and Process for using our methods
+<figure class="half">
 <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/bugdeted_classification_difference.jpg" width="450">
 <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/model_used_process.jpg" width="500">
+</figure>
+
 ### Process for using our methods
 
 
