@@ -13,3 +13,7 @@ This paper has increased the accuracy of all popular adaptive networks and also 
 
 ### Budgetd batch classification results on CIFAR-100, Mini-ImageNet and ImageNet
 <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/dynamic_cifar100.png" width="250"> <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/dynamic_MiNi_ImageNet.png" width="250"> <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/dynamic_ImageNet.png" width="250"> 
+
+## Dependencies:
++ Python3.9
++ PyTorch >= 1.0 (1.12.1 in our experiment)
