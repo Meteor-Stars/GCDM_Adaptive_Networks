@@ -10,6 +10,8 @@ This paper has increased the accuracy of all popular adaptive networks and also 
 <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/model_used_process.jpg" width="500">
 
 
-### Process for using our methods
+### Anytime prediction results on CIFAR-100, Mini-ImageNet and ImageNet
+<img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/anytime_Cifar100.png"><img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/anytime_MiNi_ImageNet.png"><img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/anytime_ImageNet.png">
 
-
+### Budgetd batch classification results on CIFAR-100, Mini-ImageNet and ImageNet
+<img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/dynamic_cifar100.png"> <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/dynamic_MiNi_ImageNet.png"> <img src="https://github.com/Meteor-Stars/GCDM_Adaptive_Networks/blob/master/Figures/dynamic_ImageNet.png"> 
